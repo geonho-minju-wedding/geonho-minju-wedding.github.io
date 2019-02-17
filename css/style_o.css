@@ -221,8 +221,8 @@ h4 a:hover, h5 a:hover, h6 a:hover{
 
 h1, h2, h3,
 .h1, .h2, .h3{
-	 margin-top: 15px;
-  margin-bottom: 15px;
+	 margin-top: 12px;
+  margin-bottom: 12px;
 }
 
 h4, h5, h6
@@ -1289,7 +1289,7 @@ img.with-border{
 /* 07.2.2 Section Title Wrapper					 */
 /* ----------------------------------------------*/
 .section-title{
-	margin-bottom:70px;
+	margin-bottom:35px;
 }
 
 .section-title h2{

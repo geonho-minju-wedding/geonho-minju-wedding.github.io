@@ -1610,6 +1610,8 @@ input[type=submit]:disabled, input[type=submit]:hover:disabled{
 
 .banner-text.dark *{
 	color:#333333;
+	margin-top: 15px;
+	margin-bottom: 15px;
 }
 
 .banner-text.withlove{
